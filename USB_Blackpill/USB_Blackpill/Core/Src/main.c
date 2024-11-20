@@ -47,6 +47,8 @@
 
 /* USER CODE BEGIN PV */
 extern volatile int16_t receivedValue;
+int16_t value = 4000;
+uint8_t buffer[2];
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -97,12 +99,16 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
 	while (1) {
-		uint8_t message[] = "first F411\n";
-		CDC_Transmit_FS(message, sizeof(message) - 1);
+		//uint8_t message[] = "first F411\n";
+		//CDC_Transmit_FS(message, sizeof(message) - 1);
+
+		// transmit the data
+		memcpy(buffer, &value, 2);
+		CDC_Transmit_FS(buffer, sizeof(buffer));
 
 		if (receivedValue != 0) {
 			HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-			HAL_Delay(500);
+			HAL_Delay(receivedValue / 5);
 		}
     /* USER CODE END WHILE */
 

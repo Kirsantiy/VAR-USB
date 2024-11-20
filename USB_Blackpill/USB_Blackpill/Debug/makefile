@@ -64,8 +64,8 @@ all: main-build
 main-build: USB_Blackpill.elf secondary-outputs
 
 # Tool invocations
-USB_Blackpill.elf USB_Blackpill.map: $(OBJS) $(USER_OBJS) C:\Users\Kirs\Desktop\USB_Blackpill\USB_Blackpill\STM32F411CEUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "USB_Blackpill.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\Kirs\Desktop\USB_Blackpill\USB_Blackpill\STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="USB_Blackpill.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+USB_Blackpill.elf USB_Blackpill.map: $(OBJS) $(USER_OBJS) C:\Users\Kirs\Desktop\VAR-USB\USB_Blackpill\USB_Blackpill\STM32F411CEUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "USB_Blackpill.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\Kirs\Desktop\VAR-USB\USB_Blackpill\USB_Blackpill\STM32F411CEUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="USB_Blackpill.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
