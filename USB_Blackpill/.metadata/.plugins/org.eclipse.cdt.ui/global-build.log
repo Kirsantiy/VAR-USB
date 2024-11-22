@@ -721,3 +721,157 @@ arm-none-eabi-size   USB_Blackpill.elf
   31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
 Finished building: default.size.stdout
  
+15:04:54 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+15:14:18 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+00:16:23 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+00:16:51 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:22:28 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:22:43 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:22:46 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:23:30 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:24:21 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:24:54 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:25:19 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:25:22 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:26:03 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:28:45 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:32:59 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:37:00 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:37:02 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:37:28 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:39:28 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:41:04 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:42:12 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
+02:49:43 **** Incremental Build of configuration Debug for project USB_Blackpill ****
+make -j12 all 
+arm-none-eabi-size   USB_Blackpill.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31296	    264	   8832	  40392	   9dc8	USB_Blackpill.elf
+Finished building: default.size.stdout
+ 
